@@ -164,6 +164,29 @@ Claude Code focuses more on **AI assisted coding and code generation**.
 
 ## <img src="https://media.giphy.com/media/5VKbvrjxpVJCM/giphy.gif" width="30"> Installation
 
+⚙️ Prerequisites
+
+Before running Dexter AI, make sure Node.js is installed.
+
+Install Node.js
+
+Go to the official website
+https://nodejs.org
+
+Download the LTS version (Recommended).
+
+Install it like normal software.
+
+Verify installation by running:
+
+node -v
+
+and
+
+npm -v
+
+If both commands show versions, Node.js is installed correctly.
+
 Clone repository
 
 ```bash
