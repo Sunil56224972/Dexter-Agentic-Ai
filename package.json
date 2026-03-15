@@ -1,0 +1,15 @@
+{
+  "name": "dexter-agent",
+  "version": "1.0.0",
+  "type": "module",
+  "bin": {
+    "dexter": "./index.js"
+  },
+  "dependencies": {
+    "@google/generative-ai": "^0.24.1",
+    "asciify-image": "^0.1.8",
+    "chalk-animation": "^2.0.3",
+    "dotenv": "^16.4.5",
+    "figlet": "^1.7.0"
+  }
+}
